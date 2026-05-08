@@ -1,0 +1,4 @@
+PyAudio==0.2.13
+websockets==10.3
+python-dotenv>=1.0.0
+groq

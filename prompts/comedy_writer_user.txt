@@ -1,0 +1,6 @@
+Chris just said:
+
+{transcript}
+
+Write one funny, witty line Chris can say back immediately.
+Return only the line.

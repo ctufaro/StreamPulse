@@ -1,0 +1,2 @@
+Chris just said: {transcript}
+Respond like a live stream co-host.
